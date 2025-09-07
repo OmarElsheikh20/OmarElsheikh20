@@ -10,7 +10,7 @@
 
 I'm a passionate **software developer** with a love for crafting elegant solutions and exploring cutting-edge technologies. My journey spans across multiple programming languages, with a focus on building robust, scalable applications that make a difference.
 
-- 🔭 Currently working on **e-commerce platforms** and **entertainment applications**
+- 🎓 Computer Science Student at **Ain Shams University** Specializing in **ASP.NET Core**
 - 🌱 Continuously learning **modern architectures** and **best practices**
 - 💡 Interested in **clean code**, **design patterns**, and **software craftsmanship**
 - 🎯 Goal: Contributing to impactful projects that solve real-world problems
@@ -56,15 +56,11 @@ I'm a passionate **software developer** with a love for crafting elegant solutio
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsheikh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmarElsheikh20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElsheikh20&layout=compact&theme=tokyonight&langs_count=6&hide_border=true"/>
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=OmarElsheikh20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarElsheikh20&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
