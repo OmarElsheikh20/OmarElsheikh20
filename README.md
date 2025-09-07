@@ -1,8 +1,10 @@
 # 👋 Hey there, I'm Omar Elsheikh
 
 <div align="center">
+  <div align="center">
   🚀 Back-End Developer | Computer Science Student | Problem Solver
       Building scalable solutions with clean code and solid architecture ✨
+    </div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Problem+Solver;Passionate+about+Clean+Code;Building+Modern+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
