@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Omar Elsheikh
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Back+-+End+Developer;Passionate+about+Clean+Code;Building+Modern+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Problem+Solver;Passionate+about+Clean+Code;Building+Modern+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
@@ -10,7 +10,7 @@
 
 I'm a passionate **software developer** with a love for crafting elegant solutions and exploring cutting-edge technologies. My journey spans across multiple programming languages, with a focus on building robust, scalable applications that make a difference.
 
-- 🎓 Computer Science Student at **Ain Shams University** Specializing in **ASP.NET Core**
+- 🔭 Currently working on **e-commerce platforms** and **entertainment applications**
 - 🌱 Continuously learning **modern architectures** and **best practices**
 - 💡 Interested in **clean code**, **design patterns**, and **software craftsmanship**
 - 🎯 Goal: Contributing to impactful projects that solve real-world problems
