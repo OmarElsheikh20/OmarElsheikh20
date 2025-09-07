@@ -19,9 +19,7 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 - 🎓 Computer Science Student at **Ain Shams University**
 - 💼 Specializing in **ASP.NET Core**
 - 🌱 Continuously learning **modern architectures** and **best practices**
-- 💡 Interested in **clean code**, **design patterns**, and **software craftsmanship**
-- 🎯 Goal: Contributing to impactful projects that solve real-world problems
-
+- 
 ---
 
 ## 🛠️ Tech Arsenal
@@ -63,10 +61,6 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsheikh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElsheikh20&layout=compact&theme=tokyonight&langs_count=6&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=OmarElsheikh20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
@@ -130,23 +124,12 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 
 ---
 
-## 📈 Development Philosophy
-
-> *"Code is read more often than it's written. I believe in crafting solutions that are not only functional but also maintainable, scalable, and elegant."*
-
-- **Quality First:** Writing clean, well-documented, and testable code
-- **User Focus:** Building applications that solve real problems effectively
-- **Continuous Improvement:** Always refactoring and optimizing for better performance
-- **Best Practices:** Following industry standards and proven design patterns
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarelsheikh22)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omarelsheikh005@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarElsheikh20)
 
 </div>
