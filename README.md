@@ -19,7 +19,6 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 - 🎓 Computer Science Student at **Ain Shams University**
 - 💼 Specializing in **ASP.NET Core**
 - 🌱 Continuously learning **modern architectures** and **best practices**
-- 
 ---
 
 ## 🛠️ Tech Arsenal
