@@ -56,7 +56,7 @@ I'm a passionate **software developer** with a love for crafting elegant solutio
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsheikh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=OmarElsheikh20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=OmarElsheikh20&layout=compact&theme=tokyonight&langs_count=8&hide_border=true"/>
 </div>
 
 <div align="center">
