@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **software developer** with a love for crafting elegant solutions and exploring cutting-edge technologies. My journey spans across multiple programming languages, with a focus on building robust, scalable applications that make a difference.
+I'm a passionate **backend developer** with a love for crafting elegant solutions and exploring cutting-edge technologies. My journey spans across multiple programming languages, with a focus on building robust, scalable applications that make a difference.
 
 - 🔭 Currently working on **e-commerce platforms** and **entertainment applications**
 - 🌱 Continuously learning **modern architectures** and **best practices**
