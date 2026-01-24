@@ -19,6 +19,7 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 - 🎓 Computer Science Student at **Ain Shams University**
 - 💼 Specializing in **ASP.NET Core**
 - 🌱 Continuously learning **modern architectures** and **best practices**
+
 ---
 
 ## 🛠️ Tech Arsenal
@@ -46,12 +47,6 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 📐 Concepts & Methodologies
-![OOP](https://img.shields.io/badge/OOP-FF6B6B?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID-4ECDC4?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC%20Pattern-45B7D1?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-96CEB4?style=for-the-badge)
-
 </div>
 
 ---
@@ -59,51 +54,37 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsheikh20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img src="https://streak-stats.demolab.com/?user=OmarElsheikh20&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=OmarElsheikh7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=OmarElsheikh7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🎬 [**Watch_it**](https://github.com/OmarElsheikh20/Watch_it) 
+### 🎬 [**Watch_it**](https://github.com/OmarElsheikh7/Watch_it) 
 > **A comprehensive movie streaming platform**
 - **Tech Stack:** Java
-- **Features:** 
-  - Multi-tier subscription plans (Basic/Standard/Premium)
+- **Features:** - Multi-tier subscription plans (Basic/Standard/Premium)
   - Personalized recommendations based on user preferences
   - Advanced search & filtering (by genre, rating, duration, language)
-  - User ratings system with dynamic updates
-  - Watch Later functionality and viewing history
-  - Admin dashboard for content & user management
-- **Highlights:** Full-featured streaming experience with both user and admin interfaces
+- **Highlights:** Full-featured streaming experience with dedicated user and admin interfaces.
 
-### 🛒 [**AuraStore**](https://github.com/OmarElsheikh20/AuraStore)
+### 🛒 [**AuraStore**](https://github.com/OmarElsheikh7/AuraStore)
 > **Modern e-commerce platform with enterprise features**
 - **Tech Stack:** C# • ASP.NET Core MVC 9.0 • Entity Framework Core • SQL Server
 - **Key Features:**
-  - Advanced shopping cart with session persistence
-  - Integrated Stripe payment processing
-  - OAuth authentication (Google/Facebook)
-  - Product reviews & ratings system
-  - Promo code system with flexible discounts
-  - Admin dashboard with analytics
-  - Cloudinary integration for image management
-  - Email notification system
-- **Architecture:** Clean layered architecture with separation of concerns
-- **Highlights:** Production-ready platform with robust security and performance optimizations
+  - Integrated Stripe payment processing & OAuth (Google/Facebook)
+  - Admin dashboard with analytics & Cloudinary image management
+- **Architecture:** Clean Architecture with a focus on maintainability and security.
 
-### 💰 [**DigitalWalletSystemV02**](https://github.com/OmarElsheikh20/DigitalWalletSystemV02)
+### 💰 [**DigitalWalletSystemV02**](https://github.com/OmarElsheikh7/DigitalWalletSystemV02)
 > **Qt-based digital wallet desktop application**
 - **Tech Stack:** C++ • Qt Framework
-- **Features:**
-  - User registration and authentication
-  - Send and receive money functionality
-  - Balance management system
-  - Complete transaction history tracking
-  - Intuitive desktop GUI
-- **Highlights:** Secure financial application with comprehensive transaction management
+- **Key Features:**
+  - Secure transaction management & balance tracking
+  - Complete user registration and money transfer functionality
+- **Highlights:** Robust financial logic paired with an intuitive desktop GUI.
 
 ---
 
@@ -113,11 +94,7 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 
 | 🎨 **Clean Code Advocate** | 🏗️ **Architecture Focused** | 🚀 **Performance Oriented** |
 |:---:|:---:|:---:|
-| Following SOLID principles and best practices | Designing scalable, maintainable systems | Optimizing for speed and efficiency |
-
-| 🔐 **Security Conscious** | 📱 **User-Centric Design** | 🔄 **Continuous Learner** |
-|:---:|:---:|:---:|
-| Implementing robust security measures | Creating intuitive user experiences | Staying updated with latest technologies |
+| Following SOLID principles | Designing scalable systems | Optimizing for efficiency |
 
 </div>
 
@@ -128,15 +105,15 @@ I'm a passionate **backend developer** with a love for crafting elegant solution
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omarelsheikh22)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](omarelsheikh005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarElsheikh20)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omarelsheikh005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OmarElsheikh7)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=OmarElsheikh20&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=OmarElsheikh7&color=58A6FF&style=for-the-badge" alt="Profile Views"/>
   
   **Thanks for visiting! ⭐ Star my repositories if you find them helpful!**
 </div>
